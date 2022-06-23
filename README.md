@@ -37,3 +37,11 @@ notbeenoughsocial.py update -d  myDescription -> update specific account's descr
 notbeenoughsocial.py create  -p myPost -> create a specific account's post
 
 ![image](https://user-images.githubusercontent.com/76400595/175343324-ac0b8357-d5be-47a8-9dc7-22f77dea42b9.png)
+
+# Authors
+Buscarino Antonino
+
+# License
+
+ GNU General Public License v3
+
